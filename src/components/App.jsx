@@ -6,8 +6,7 @@ import { Modal } from './Modal/Modal';
 import { Searchbar } from './Searchbar/Searchbar';
 import { Component } from 'react';
 import './styles.css';
-// import { logDOM } from '@testing-library/react';
-// import axios from 'axios';
+
 import { toast } from 'react-toastify';
 import { getPosts } from './Server/server';
 
